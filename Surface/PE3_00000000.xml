@@ -1,0 +1,968 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>3h Precipitation</VAR>
+<UNIT>mm/3h</UNIT>
+<PERIOD>20230207-20230214</PERIOD>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.184458897     </STDV_OBS>
+ <EXP>
+ <ID>       11019 </ID>
+ <NAME>envar</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>  0.176452652     </MEAN>
+ <STDV>   8.86645312E+29 </STDV>
+ <BIAS>   1.55256474E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   12.8047819     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       11019 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.130432129     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.00000007E-02 </MEAN_OBS>
+ <STDV_OBS>  0.226828471     </STDV_OBS>
+ <EXP>
+ <ID>       11021 </ID>
+ <NAME>envar</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>  0.173110962     </MEAN>
+ <STDV>   13.1959476     </STDV>
+ <BIAS>  0.156073630     </BIAS>
+ <RMSE>  -1.57880560E-02 </RMSE>
+ <CORR>   8.71694829E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       11021 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.243595809     </BIAS>
+ <RMSE> -0.185553178     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.90510788E-04 </STDV_OBS>
+ <EXP>
+ <ID>       11032 </ID>
+ <NAME>envar</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   6.10335148E-04 </MEAN>
+ <STDV>   12.8054533     </STDV>
+ <BIAS>   1.04668997E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -7.87519093E-04 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       11032 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>   4.88264865E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.07627052E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.95833299E-02 </MEAN_OBS>
+ <STDV_OBS>  0.650621712     </STDV_OBS>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>envar</NAME>
+ <NUM>          48 </NUM>
+ <MEAN>  0.239654467     </MEAN>
+ <STDV>   12.8047810     </STDV>
+ <BIAS>  0.520797133     </BIAS>
+ <RMSE>  0.560175717     </RMSE>
+ <CORR>  -7.83775758E-04 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          48 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.468024850     </BIAS>
+ <RMSE>  0.686742902     </RMSE>
+ <CORR>   3.07627052E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.33333433E-02 </MEAN_OBS>
+ <STDV_OBS>  0.457165182     </STDV_OBS>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>envar</NAME>
+ <NUM>          48 </NUM>
+ <MEAN>  0.177560732     </MEAN>
+ <STDV>   12.9856386     </STDV>
+ <BIAS>  0.286277920     </BIAS>
+ <RMSE>  0.809713781     </RMSE>
+ <CORR>   12.8113136     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          48 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.264354140     </BIAS>
+ <RMSE>  0.909275532     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.112280704     </MEAN_OBS>
+ <STDV_OBS>  0.491352886     </STDV_OBS>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>envar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>  0.138309568     </MEAN>
+ <STDV>   12.8113127     </STDV>
+ <BIAS>  0.336424142     </BIAS>
+ <RMSE>  0.669808090     </RMSE>
+ <CORR>  -8.00157548E-04 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.321253181     </BIAS>
+ <RMSE>  0.755572498     </RMSE>
+ <CORR>   3.07627052E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.94736797E-02 </MEAN_OBS>
+ <STDV_OBS>  0.431760550     </STDV_OBS>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>envar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>  0.125917643     </MEAN>
+ <STDV>   8.71694980E+29 </STDV>
+ <BIAS>  0.222178996     </BIAS>
+ <RMSE>  0.971017420     </RMSE>
+ <CORR>   12.9940615     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   3.07627052E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.159201026     </BIAS>
+ <RMSE>  0.944151044     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.107017539     </MEAN_OBS>
+ <STDV_OBS>  0.314191371     </STDV_OBS>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>envar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>  0.100395747     </MEAN>
+ <STDV>  -8.00220878E-04 </STDV>
+ <BIAS>  0.164745569     </BIAS>
+ <RMSE>  0.930462241     </RMSE>
+ <CORR>   12.8054543     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07627052E-41 </STDV>
+ <BIAS>  0.157449976     </BIAS>
+ <RMSE>  0.931160808     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.100000001     </MEAN_OBS>
+ <STDV_OBS>   6.90536061E-03 </STDV_OBS>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>envar</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   5.12696803E-03 </MEAN>
+ <STDV>   12.8054533     </STDV>
+ <BIAS>   8.88660476E-02 </BIAS>
+ <RMSE>  0.999999881     </RMSE>
+ <CORR>  -8.00220878E-04 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>   9.51171741E-02 </BIAS>
+ <RMSE>   1.00000000     </RMSE>
+ <CORR>   3.07627052E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.111111127     </MEAN_OBS>
+ <STDV_OBS>   3.26210856E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>envar</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   1.36515303E-02 </MEAN>
+ <STDV>   8.71695056E+29 </STDV>
+ <BIAS>   9.25078988E-02 </BIAS>
+ <RMSE> -0.195712730     </RMSE>
+ <CORR>   12.8049173     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>   8.64616334E-02 </BIAS>
+ <RMSE> -0.222232431     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.42857153E-02 </MEAN_OBS>
+ <STDV_OBS>  0.375124425     </STDV_OBS>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>envar</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>  0.168790728     </MEAN>
+ <STDV>   12.8049173     </STDV>
+ <BIAS>  0.335380048     </BIAS>
+ <RMSE> -0.177628636     </RMSE>
+ <CORR>  -7.87519035E-04 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.355897158     </BIAS>
+ <RMSE> -0.198413432     </RMSE>
+ <CORR>   3.07627052E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.50000030E-02 </MEAN_OBS>
+ <STDV_OBS>  0.149273276     </STDV_OBS>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>envar</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   7.69042894E-02 </MEAN>
+ <STDV>   12.8054543     </STDV>
+ <BIAS>   8.49450380E-02 </BIAS>
+ <RMSE>  0.250798106     </RMSE>
+ <CORR>   13.2155247     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.139633551     </BIAS>
+ <RMSE>  0.190754965     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.298655957     </STDV_OBS>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>envar</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>  0.222412154     </MEAN>
+ <STDV>   13.2155247     </STDV>
+ <BIAS>  0.132286206     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   12.9992495     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.211181656     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.68463085E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>envar</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>   1.77408885E-02 </MEAN>
+ <STDV>   12.7858152     </STDV>
+ <BIAS>   5.81900170E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -7.83712429E-04 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>   1.37549518E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.07627052E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.100000001     </MEAN_OBS>
+ <STDV_OBS>  0.459124565     </STDV_OBS>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>envar</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>  0.388610840     </MEAN>
+ <STDV>   12.8049192     </STDV>
+ <BIAS>  0.311404228     </BIAS>
+ <RMSE>  0.576393485     </RMSE>
+ <CORR>   8.70148084E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.351858675     </BIAS>
+ <RMSE>  0.506103814     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.216666684     </MEAN_OBS>
+ <STDV_OBS>  0.143260404     </STDV_OBS>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>envar</NAME>
+ <NUM>           6 </NUM>
+ <MEAN>  0.110229492     </MEAN>
+ <STDV>  -7.83775758E-04 </STDV>
+ <BIAS>  0.153534412     </BIAS>
+ <RMSE>  0.784599483     </RMSE>
+ <CORR>   8.71695056E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           6 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07627052E-41 </STDV>
+ <BIAS>  0.221797556     </BIAS>
+ <RMSE>  0.411993265     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.100000001     </MEAN_OBS>
+ <STDV_OBS>  0.561004579     </STDV_OBS>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>envar</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>  0.488953024     </MEAN>
+ <STDV>   12.7975798     </STDV>
+ <BIAS>  0.242018491     </BIAS>
+ <RMSE>  0.493895024     </RMSE>
+ <CORR>   8.71697322E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.420584887     </BIAS>
+ <RMSE>  0.711677849     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.00000028E-02 </MEAN_OBS>
+ <STDV_OBS>  0.183023423     </STDV_OBS>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>envar</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>  0.110083006     </MEAN>
+ <STDV>   12.9992495     </STDV>
+ <BIAS>  0.112691961     </BIAS>
+ <RMSE>  0.451940328     </RMSE>
+ <CORR>   8.71694980E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>   3.07627052E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.162929028     </BIAS>
+ <RMSE>  0.360028386     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.217865080     </STDV_OBS>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>envar</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>  0.113845833     </MEAN>
+ <STDV>   13.2071018     </STDV>
+ <BIAS>  0.129992828     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   8.71697398E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.203794122     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.25000002E-02 </MEAN_OBS>
+ <STDV_OBS>  0.158230826     </STDV_OBS>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>envar</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   5.83496094E-02 </MEAN>
+ <STDV>   8.71697398E+29 </STDV>
+ <BIAS>  0.107819505     </BIAS>
+ <RMSE> -0.158262268     </RMSE>
+ <CORR>   8.71694829E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   3.07627052E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.156376973     </BIAS>
+ <RMSE> -0.148379132     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.140000001     </MEAN_OBS>
+ <STDV_OBS>   2.30210740E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>envar</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   5.60302660E-03 </MEAN>
+ <STDV>  -8.00157548E-04 </STDV>
+ <BIAS>  0.112651818     </BIAS>
+ <RMSE>   9.25232768E-02 </RMSE>
+ <CORR>   12.8054543     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07627052E-41 </STDV>
+ <BIAS>  0.113016091     </BIAS>
+ <RMSE>  0.105045207     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.116666675     </MEAN_OBS>
+ <STDV_OBS>   2.76927017E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>envar</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   1.12915095E-02 </MEAN>
+ <STDV>   12.7975798     </STDV>
+ <BIAS>  0.117346309     </BIAS>
+ <RMSE> -0.137138873     </RMSE>
+ <CORR>   12.9992495     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.121681169     </BIAS>
+ <RMSE> -0.172928929     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.85964885E-02 </MEAN_OBS>
+ <STDV_OBS>  0.383992642     </STDV_OBS>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>envar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>  0.132690445     </MEAN>
+ <STDV>   13.2071018     </STDV>
+ <BIAS>  0.273675919     </BIAS>
+ <RMSE>  0.783495128     </RMSE>
+ <CORR>   12.8113136     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.311171681     </BIAS>
+ <RMSE>  0.610323012     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.100000001     </MEAN_OBS>
+ <STDV_OBS>  0.124832116     </STDV_OBS>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>envar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   7.02311099E-02 </MEAN>
+ <STDV>   12.7975798     </STDV>
+ <BIAS>  0.169189349     </BIAS>
+ <RMSE>  0.629131317     </RMSE>
+ <CORR>  -8.00157548E-04 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.152935833     </BIAS>
+ <RMSE>   6.34113029E-02 </RMSE>
+ <CORR>   3.07627052E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.75000060E-02 </MEAN_OBS>
+ <STDV_OBS>  0.234234527     </STDV_OBS>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>envar</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>  0.153167725     </MEAN>
+ <STDV>   12.8113136     </STDV>
+ <BIAS>  0.214751318     </BIAS>
+ <RMSE>  0.140501678     </RMSE>
+ <CORR>   12.9939547     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   3.07627052E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.265452474     </BIAS>
+ <RMSE> -0.114470720     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.100000001     </MEAN_OBS>
+ <STDV_OBS>  0.351459563     </STDV_OBS>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>envar</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>  0.171423346     </MEAN>
+ <STDV>   12.9739962     </STDV>
+ <BIAS>  0.237972394     </BIAS>
+ <RMSE>  0.161090016     </RMSE>
+ <CORR>   8.71694980E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.376079261     </BIAS>
+ <RMSE> -0.250024438     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.100000001     </MEAN_OBS>
+ <STDV_OBS>  0.213068798     </STDV_OBS>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>envar</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>  0.228881821     </MEAN>
+ <STDV>   13.2077732     </STDV>
+ <BIAS>  0.273058027     </BIAS>
+ <RMSE> -0.998400152     </RMSE>
+ <CORR>   8.71697247E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.273827255     </BIAS>
+ <RMSE> -0.838177979     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.150000006     </MEAN_OBS>
+ <STDV_OBS>  0.615458727     </STDV_OBS>
+ <EXP>
+ <ID>       26038 </ID>
+ <NAME>envar</NAME>
+ <NUM>          56 </NUM>
+ <MEAN>  0.241424337     </MEAN>
+ <STDV>   12.7858143     </STDV>
+ <BIAS>  0.523588359     </BIAS>
+ <RMSE>  0.683250487     </RMSE>
+ <CORR>   12.9856386     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26038 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          56 </NUM>
+ <MEAN>   3.07627052E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>  0.446328908     </BIAS>
+ <RMSE>  0.731535494     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.92857157E-02 </MEAN_OBS>
+ <STDV_OBS>  0.483157992     </STDV_OBS>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>envar</NAME>
+ <NUM>          56 </NUM>
+ <MEAN>  0.130913720     </MEAN>
+ <STDV>  -8.00157548E-04 </STDV>
+ <BIAS>  0.309725821     </BIAS>
+ <RMSE>  0.848499358     </RMSE>
+ <CORR>   12.8113127     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          56 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07627052E-41 </STDV>
+ <BIAS>  0.336036831     </BIAS>
+ <RMSE>  0.889714837     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.04217232E-04 </STDV_OBS>
+ <EXP>
+ <ID>       11332 </ID>
+ <NAME>envar</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   4.27246094E-04 </MEAN>
+ <STDV>   8.71694829E+29 </STDV>
+ <BIAS>   1.74214002E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -7.87582423E-04 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       11332 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>   4.27246094E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.07627052E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.33052461E-03 </STDV_OBS>
+ <EXP>
+ <ID>       11022 </ID>
+ <NAME>envar</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   1.89207029E-03 </MEAN>
+ <STDV>   12.9992495     </STDV>
+ <BIAS>   7.72700005E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   12.7975798     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       11022 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>   1.64792966E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.40350880E-02 </MEAN_OBS>
+ <STDV_OBS>   1.65458359E-02 </STDV_OBS>
+ <EXP>
+ <ID>        7059 </ID>
+ <NAME>envar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   7.22999126E-03 </MEAN>
+ <STDV>   12.8049173     </STDV>
+ <BIAS>   5.53221293E-02 </BIAS>
+ <RMSE> -0.112280130     </RMSE>
+ <CORR>   13.1959476     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7059 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>   5.10959290E-02 </BIAS>
+ <RMSE>  0.160052732     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.40350880E-02 </MEAN_OBS>
+ <STDV_OBS>   1.28261819E-02 </STDV_OBS>
+ <EXP>
+ <ID>        7005 </ID>
+ <NAME>envar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   6.49543153E-03 </MEAN>
+ <STDV>   8.71694904E+29 </STDV>
+ <BIAS>   5.22288382E-02 </BIAS>
+ <RMSE>  -6.86403085E-03 </RMSE>
+ <CORR>   12.8049192     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7005 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>   5.34766950E-02 </BIAS>
+ <RMSE>  -6.78204969E-02 </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.07142869E-02 </MEAN_OBS>
+ <STDV_OBS>   2.85902526E-02 </STDV_OBS>
+ <EXP>
+ <ID>        7015 </ID>
+ <NAME>envar</NAME>
+ <NUM>          56 </NUM>
+ <MEAN>   1.40675111E-02 </MEAN>
+ <STDV>   12.7858152     </STDV>
+ <BIAS>   5.39612696E-02 </BIAS>
+ <RMSE> -0.110072866     </RMSE>
+ <CORR>   13.2058201     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7015 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          56 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>   5.59670851E-02 </BIAS>
+ <RMSE> -0.118123062     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.57142882E-03 </MEAN_OBS>
+ <STDV_OBS>   9.81004070E-03 </STDV_OBS>
+ <EXP>
+ <ID>        7002 </ID>
+ <NAME>envar</NAME>
+ <NUM>          56 </NUM>
+ <MEAN>   4.02069278E-03 </MEAN>
+ <STDV>   12.8054533     </STDV>
+ <BIAS>   2.67698579E-02 </BIAS>
+ <RMSE>  0.114767097     </RMSE>
+ <CORR>   12.9940615     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7002 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          56 </NUM>
+ <MEAN>   3.07627052E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>   2.87187789E-02 </BIAS>
+ <RMSE>  -5.57649583E-02 </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.01754401E-03 </MEAN_OBS>
+ <STDV_OBS>   1.38726681E-02 </STDV_OBS>
+ <EXP>
+ <ID>        7003 </ID>
+ <NAME>envar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   7.24391313E-03 </MEAN>
+ <STDV>  -7.87519035E-04 </STDV>
+ <BIAS>   3.38104703E-02 </BIAS>
+ <RMSE>  0.427763969     </RMSE>
+ <CORR>   13.2072392     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7003 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07627052E-41 </STDV>
+ <BIAS>   3.69443782E-02 </BIAS>
+ <RMSE>  0.176327229     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.01754401E-03 </MEAN_OBS>
+ <STDV_OBS>   1.10972989E-02 </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>envar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   4.75431886E-03 </MEAN>
+ <STDV>   8.71697398E+29 </STDV>
+ <BIAS>   3.87287065E-02 </BIAS>
+ <RMSE>  -7.06564337E-02 </RMSE>
+ <CORR>   12.8113108     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   3.07627052E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>   3.92680503E-02 </BIAS>
+ <RMSE>  -8.24229270E-02 </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.01754401E-03 </MEAN_OBS>
+ <STDV_OBS>   2.40224116E-02 </STDV_OBS>
+ <EXP>
+ <ID>        7040 </ID>
+ <NAME>envar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   7.41309673E-03 </MEAN>
+ <STDV>  -7.87582423E-04 </STDV>
+ <BIAS>   5.35757355E-02 </BIAS>
+ <RMSE>  -4.44758795E-02 </RMSE>
+ <CORR>   12.9940615     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7040 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07627052E-41 </STDV>
+ <BIAS>   4.50028703E-02 </BIAS>
+ <RMSE>  -5.93690425E-02 </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.34997666E-02 </STDV_OBS>
+ <EXP>
+ <ID>        7061 </ID>
+ <NAME>envar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   6.00955216E-03 </MEAN>
+ <STDV>   12.7975788     </STDV>
+ <BIAS>   1.20515497E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   12.8049202     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7061 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>   1.33808237E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   8.25194176E-03 </STDV_OBS>
+ <EXP>
+ <ID>        7075 </ID>
+ <NAME>envar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   3.65354144E-03 </MEAN>
+ <STDV>   12.9940615     </STDV>
+ <BIAS>   1.26047460E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   12.8113127     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7075 </ID>
+ <NAME>3dvar</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   3.07613039E-41 </MEAN>
+ <STDV>   3.07613039E-41 </STDV>
+ <BIAS>   8.17923620E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.07613039E-41 </CORR>
+ </EXP>
+ </STATION>
+</STAT>
